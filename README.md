@@ -28,7 +28,7 @@ ROBO-ONEには誰でも参加できます。国籍は問いません。
 #### 台湾  (http://www.robo-one.tw)
   台北コンピュータ協会　ロボット産業推進オフィス　
 
-#### ラテンアメリカ  (https://www.robo-one.la)　
+#### ラテンアメリカ https://www.robo-one.la
   ラテンアメリカから参加する場合はラテンアメリカ代表団体の了解なく参加はできません。
 
 #### 香港 (https://www.facebook.com/reel/1720138045464595)
